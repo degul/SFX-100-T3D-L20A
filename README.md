@@ -4,7 +4,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 
 
 
-### Servo Motor wiring diagram
+## Servo Motor wiring diagram
 
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/servo_1.png" alt="parameter_1" width="700">
 
@@ -13,7 +13,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 
 
 
-### Parameters
+## Parameters
 
 ` P-004 ; 0 ` <br>
 ` P-028 ; 0 ` <br>
@@ -36,8 +36,17 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_1.png" alt="parameter_1" width="600">
 
 
+#### 테스트?
+` P-034 ; 0 (Position Mode) `<br>
+` P-098 ; 1 (Force Enable) `<br>
+` P-172 ; 500 (2000 steps per rev) `<br>
+` P-204 ; 4.5 (Amps) `<br>
 
-### 참고 링크
+<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_2.png" alt="parameter_2" width="600">
+
+
+
+## 참고 링크
 
 https://opensfx.com/
 
@@ -52,7 +61,7 @@ https://github.com/Pyronious/SFX-100-Breakout-Board/tree/master/Group%20Buy%20Ed
 
 
 
-### 참고 문서
+## 참고 문서
 
 https://cnc-tehnologi.ru/files/t3d_servo_ENpdf.pdf
 
