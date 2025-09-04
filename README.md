@@ -13,6 +13,13 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 
 
 
+## SimFeedback Pins
+
+<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_2.png" alt="parameter_2" width="600">
+
+
+
+
 ## Parameters
 
 ` P-004 ; 0 ` <br>
