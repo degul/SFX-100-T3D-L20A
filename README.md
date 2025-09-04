@@ -10,6 +10,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 
 ` 
 L1 / L2 = main power input terminal 220v
+
 U / V / W / PE = power cable  
 `
 
