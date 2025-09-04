@@ -6,16 +6,16 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 
 ## Servo Motor wiring diagram
 
-<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/servo_1.png" alt="parameter_1" width="700">
+<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/servo_1.png" alt="" width="700">
 
 ` L1 / L2 = main power input terminal 220v  `<br>
 ` U / V / W / PE = power cable  `<br>
 
 
 
-## SimFeedback Pins
+## SimFeedback + Servo 80AST Pins
 
-<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_2.png" alt="parameter_2" width="600">
+<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/pins_2.png" alt="" width="600">
 
 
 
@@ -40,7 +40,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 ` P-040 ; 30 ` <br>
 ` P-080 ; 600 ` <br>
 
-<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_1.png" alt="parameter_1" width="600">
+<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_1.png" alt="" width="600">
 
 
 #### 테스트?
@@ -49,7 +49,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 ` P-172 ; 500 (2000 steps per rev) `<br>
 ` P-204 ; 4.5 (Amps) `<br>
 
-<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_2.png" alt="parameter_2" width="600">
+<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_2.png" alt="" width="600">
 
 
 
