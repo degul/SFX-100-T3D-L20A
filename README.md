@@ -9,28 +9,29 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/servo_1.png" alt="parameter_1" width="700">
 
 ` L1 / L2 = main power input terminal 220v  `<br>
-` U / V / W / PE = power cable  `
+` U / V / W / PE = power cable  `<br>
 
 
 
 ### Parameters
 
-` P-004 ; 0 ` 
-` P-028 ; 0 ` 
-` P-029 ; 16 = 100mm, 32 = 200mm stroke limit ` 
-` P-030 ; 1 ` 
-` P-035 ; 0 ` 
-` P-036 ; 0 ` 
+` P-004 ; 0 ` <br>
+` P-028 ; 0 ` <br>
+` P-029 ; 16 = 100mm, 32 = 200mm stroke limit ` <br>
+` P-030 ; 1 ` <br>
+` P-035 ; 0 ` <br>
+` P-036 ; 0 ` <br>
 
-` P-005 ; 50 ` 
-` P-006 ; 025 ` 
-` P-009 ; 40 ` 
-` P-007 ; 30 ` 
-` P-019 ; 60 ` 
-` P-021 ; 20 ` 
-` P-022 ; 10 ` 
-` P-040 ; 30 ` 
-` P-080 ; 600 ` 
+
+` P-005 ; 50 ` <br>
+` P-006 ; 025 ` <br>
+` P-009 ; 40 ` <br>
+` P-007 ; 30 ` <br>
+` P-019 ; 60 ` <br>
+` P-021 ; 20 ` <br>
+` P-022 ; 10 ` <br>
+` P-040 ; 30 ` <br>
+` P-080 ; 600 ` <br>
 
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_1.png" alt="parameter_1" width="600">
 
