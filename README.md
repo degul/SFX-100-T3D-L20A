@@ -1,39 +1,38 @@
 # SimFeedback-T3D-L20A
 SFX-100 AC Servo Motor 80AST-A1C02430
 
-https://raw.githubusercontent.com/degul/SimFeedback-T3D-L20A/refs/heads/main/README.md
+
 
 
 ### Servo Motor wiring diagram
 
 ![](https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/servo_1.png)
 
-L1 / L2 = main power input terminal 220v
-U / V / W / PE = power cable
+* L1 / L2 = main power input terminal 220v
+* U / V / W / PE = power cable
 
 
 
 ### Parameters
 
-P-004 ; 0
-P-028 ; 0
-P-029 ; 16 = 100mm, 32 = 200mm 스트로크 limit
-P-030 ; 1
-P-035 ; 0
-P-036 ; 0
+* P-004 ; 0
+* P-028 ; 0
+* P-029 ; 16 = 100mm, 32 = 200mm 스트로크 limit
+* P-030 ; 1
+* P-035 ; 0
+* P-036 ; 0
 
-P-005 ; 50
-P-006 ; 025
-P-009 ; 40
-P-007 ; 30
-P-019 ; 60
-P-021 ; 20
-P-022 ; 10
-P-040 ; 30
-P-080 ; 600
+* P-005 ; 50
+* P-006 ; 025
+* P-009 ; 40
+* P-007 ; 30
+* P-019 ; 60
+* P-021 ; 20
+* P-022 ; 10
+* P-040 ; 30
+* P-080 ; 600
 
-![](https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_1.png)
-
+<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_1.png" alt="parameter_1" width="600">
 
 
 
