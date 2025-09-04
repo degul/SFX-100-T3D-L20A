@@ -13,11 +13,19 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 
 
 
+**굵게**   →   **Bold**
+*기울임*   →   *Italic*
+~~취소선~~ →   ~~Strike~~
+`코드`     →   `Inline Code`
+
+
+
+
 ### Parameters
 
 * P-004 ; 0
 * P-028 ; 0
-* P-029 ; 16 = 100mm, 32 = 200mm 스트로크 limit
+* P-029 ; 16 = 100mm, 32 = 200mm stroke limit
 * P-030 ; 1
 * P-035 ; 0
 * P-036 ; 0
