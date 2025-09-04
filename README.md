@@ -11,6 +11,8 @@ https://github.com/SimFeedback/SimFeedback-AC-Servo
 
 https://github.com/SHWotever/SimHubMotionPresets
 
+https://opensfx.com/2019/04/09/sfx-100-shield/
+
 https://github.com/Pyronious/SFX-100-Breakout-Board/tree/master/Group%20Buy%20Edition/Gerber%20Files
 
 
