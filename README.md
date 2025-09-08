@@ -49,6 +49,30 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_2.png" alt="" width="600">
 
 
+## 3D Printing
+
+bump stop / slider 0.4mm 노즐 출력 (정밀성)
+
+SFX-100 부품을 100시간 이내로 출력하는 방법
+0.6mm 노즐 출력 세팅
+| 설정 항목           | 권장 값                   | 비고                 |
+| --------------- | ---------------------- | ------------------ |
+| 노즐 직경           | **0.6mm**              | 전체 프로필 변경 필수       |
+| 레이어 높이          | **0.4mm**              | 표준 출력 속도 대비 2배 두꺼움 |
+| 최소 레이어 높이       | 0.2mm                  | 가변 레이어 적용 시 사용     |
+| 첫 레이어 높이        | **0.2mm**              | 접착력 향상             |
+| Perimeter(외벽 수) | **5개**                 | 충분한 강도 확보          |
+| 상/하단 레이어        | 8개 *(가변 레이어 사용 시 12개)* | 표면 품질 유지           |
+| 인필 밀도           | **25%**, Grid 패턴       | 강도 ↑               |
+| 20층마다 솔리드 인필    | 활성화                    | 구조 안정성 강화          |
+| Perimeter 시작점   | Random                 | Z-Seam 숨김          |
+| 브림              | **5mm**, 1층            | 뒤틀림 방지             |
+| 가변 레이어 높이       | 상단 3mm → **0.2mm**     | 표면 품질 개선(선택 사항)    |
+
+
+참고 - https://www.xsimulator.net/community/threads/diablo2112s-4-axis-sfx-100-build.13571/page-3#post-185076
+
+
 
 ## 참고 링크
 
