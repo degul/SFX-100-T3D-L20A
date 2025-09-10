@@ -49,6 +49,24 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_2.png" alt="" width="600">
 
 
+## Assembly parts
+bolt
+M8 x 40mm x 32ea
+M6 x 110mm x 16ea
+M6 x 45mm x 16ea
+M5 x 30mm x 24ea
+M4 x 25mm x 16ea
+
+washer
+M8 x 32ea
+M5 x 24ea
+M4 x 16ea
+
+nut
+M12 x 1 pitch x 4ea (SFU 1605)
+M6 x 16ea
+
+
 ## 3D Printing
 
 bump stop / slider 0.4mm 노즐 출력 (정밀성)
