@@ -50,22 +50,22 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 
 
 ## Assembly parts
-bolt
-M8 x 40mm x 32ea
-M6 x 110mm x 16ea
-M6 x 45mm x 16ea
-M5 x 30mm x 24ea
-M4 x 25mm x 16ea
-
-washer
-M8 x 32ea
-M5 x 24ea
-M4 x 16ea
-
-nut
-M12 x 1 pitch x 4ea (SFU 1605)
-M6 x 16ea
-
+bolt <br>
+M8 x 40mm x 32ea <br>
+M6 x 110mm x 16ea <br>
+M6 x 45mm x 16ea <br>
+M5 x 30mm x 24ea <br>
+M4 x 25mm x 16ea <br>
+ <br>
+washer <br>
+M8 x 32ea <br>
+M5 x 24ea <br>
+M4 x 16ea <br>
+ <br>
+nut <br>
+M12 x 1 pitch x 4ea (SFU 1605) <br>
+M6 x 16ea <br>
+ <br>
 
 ## 3D Printing
 
