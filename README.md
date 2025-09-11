@@ -13,9 +13,11 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 
 
 
+
 ## SimFeedback + Servo 80AST Pins
 
 ![](https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/pins_1.png)
+
 
 
 
@@ -49,6 +51,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_2.png" alt="" width="600">
 
 
+
 ## Assembly parts
 bolt <br>
 M8 x 40mm x 32ea <br>
@@ -66,6 +69,9 @@ nut <br>
 M12 x 1 pitch x 4ea (SFU 1605) <br>
 M6 x 16ea <br>
  <br>
+
+
+
 
 ## 3D Printing
 
@@ -91,11 +97,16 @@ SFX-100 부품을 100시간 이내로 출력하는 방법
 참고 - https://www.xsimulator.net/community/threads/diablo2112s-4-axis-sfx-100-build.13571/page-3#post-185076
 
 
+
+
+
 ## Surge
 
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/sfx100_surge_axis_sbr30.png" alt="">
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/SBR30_1.png" alt="">
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/SBR30_2.png" alt="">
+
+
 
 
 ## 참고 링크
