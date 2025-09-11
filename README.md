@@ -103,6 +103,7 @@ SFX-100 부품을 100시간 이내로 출력하는 방법
 ## Surge
 
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/surge_HGW20CA.png" alt="">
+<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/HGW20CC_DIM.png" alt="">
 
 
 
