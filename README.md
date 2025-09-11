@@ -132,4 +132,5 @@ https://cnc-tehnologi.ru/files/t3d_servo_ENpdf.pdf
 https://www.hlt-cnc.com/uploads/38006/files/T3D-Full-manual-V2.3_-English-version.pdf
 
 
+<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/mm.png" alt="">
 
