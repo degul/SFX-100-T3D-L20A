@@ -91,6 +91,10 @@ SFX-100 부품을 100시간 이내로 출력하는 방법
 참고 - https://www.xsimulator.net/community/threads/diablo2112s-4-axis-sfx-100-build.13571/page-3#post-185076
 
 
+## Surge
+
+<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/sfx100_surge_axis_schematic.png" alt="">
+
 
 ## 참고 링크
 
