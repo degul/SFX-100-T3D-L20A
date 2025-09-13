@@ -40,6 +40,8 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 ~~` P-080 ; 600 `~~ <br>
 ` P-098 ; 1 (Force Enable) `<br>
 
+E-set -> done
+
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_1.png" alt="" width="600">
 
 
