@@ -40,6 +40,8 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 ~~` P-080 ; 600 `~~ <br>
 ` P-098 ; 1 (Force Enable) `<br>
 
+E-set -> done
+
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_1.png" alt="" width="600">
 
 
@@ -108,13 +110,6 @@ SFX-100 부품을 100시간 이내로 출력하는 방법
 
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/surge_HGW20CA.png" alt="">
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/HGW20CC_DIM.png" alt="">
-
-Rod End M22 1.5 pitch <br>
-OD30mm ID22mm M22 1.5 pitch tapped <br>
-M22 x 1.5 pitch hex nut <br>
-
-<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/SA22.png" alt="">
-
 
 
 
