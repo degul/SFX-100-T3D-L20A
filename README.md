@@ -98,6 +98,10 @@ SFX-100 부품을 100시간 이내로 출력하는 방법
 
 
 
+## Wiring
+
+<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/ac_line.png" alt="">
+
 
 
 ## Surge
