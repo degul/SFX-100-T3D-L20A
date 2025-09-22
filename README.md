@@ -23,12 +23,12 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 
 ## Parameters
 
-` P-006 ; 25 ` <br>
-` P-007 ; 30 ` <br>
-` P-019 ; 60 ` <br>
-` P-021 ; 20 ` <br>
-` P-029 ; 16 = 100mm, 32 = 200mm stroke limit ` <br>
-` P-040 ; 30 ` <br>
+` P-006 ; 25 `<br>
+` P-007 ; 30 `<br>
+` P-019 ; 60 `<br>
+` P-021 ; 20 `<br>
+` P-029 ; 16 = 100mm, 32 = 200mm stroke limit `<br>
+` P-040 ; 30 `<br>
 ` P-098 ; 1 (Force Enable) `<br>
 
 E-set -> done
