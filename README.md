@@ -34,15 +34,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 E-set -> done
 
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_1.png" alt="" width="600">
-
-
-#### 테스트?
-~~` P-034 ; 0 (Position Mode) `~~ <br>
-~~` P-172 ; 500 (2000 steps per rev) ~~`~~<br>
-~~` P-204 ; 4.5 (Amps) `~~<br>
-
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_2.png" alt="" width="600">
-
 
 
 ## Assembly parts
