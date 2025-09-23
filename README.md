@@ -95,6 +95,9 @@ SFX-100 부품을 100시간 이내로 출력하는 방법
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/HGW20CC_DIM.png" alt="">
 
 
+## monitor
+
+<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/monitor_cockpit.png" alt="">
 
 ## 참고 링크
 
