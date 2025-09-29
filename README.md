@@ -44,15 +44,15 @@ E-set -> done
 
 | Part | Type | EA | link | 
 | --- | --- | --- | --- |
-| Servo Motor | HLTNC T3D-L20A-RABN 750W 2.4N | 4 | https://ko.aliexpress.com/item/1005004869497167.html |
+| Servo Motor | HLTNC T3D-L20A-RABN 750W 2.4N | 4 | https://www.aliexpress.com/item/1005004869497167.html |
 | Coupling | 40X50-10X19 | 4 | |
 | FK12 |  | 4 | |
 | Rubber Ring | OD30mm CS4mm | 4 | |
 | SFU 1605 | 250mm | 4 | |
-| Hollow Shaft | OD30mm, ID20mm, 300mm | 4 | https://ko.aliexpress.com/item/1005003847058846.html |
-| LMEK30UU |  | 4 | https://ko.aliexpress.com/item/1005003773456962.html |
-| Profile 100x100 | | | https://ko.aliexpress.com/item/1005002770599016.html |
-| Grub Screws M8 | | | https://ko.aliexpress.com/item/1005002797059381.html | 
+| Hollow Shaft | OD30mm, ID20mm, 300mm | 4 | https://www.aliexpress.com/item/1005003847058846.html |
+| LMEK30UU |  | 4 | https://www.aliexpress.com/item/1005003773456962.html |
+| Profile 100x100 | | | https://www.aliexpress.com/item/1005002770599016.html |
+| Grub Screws M8 | | | https://www.aliexpress.com/item/1005002797059381.html | 
 
 | Bolt | Length | EA |
 | --- | --- | --- |
