@@ -118,25 +118,6 @@ SFX-100 부품을 100시간 이내로 출력하는 방법
 
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/20250925_132918.png" alt="">
 
-part list ------------------------------
-
-8080 x 1400 x 2ea<br>
-8080 x 480 x 1ea<br>
-4040 x 640 x 2ea<br>
-4080 x 480 x 2ea<br>
-
-DCB 4075 x 8ea (AL브라켓)<br>
-DCB 4035 x 4ea (AL브라켓)<br>
-
-DSB 4075 x 2ea  (스틸브라켓)<br>
-DSB 4035 x 12ea (스틸브라켓)<br>
-
-스프링너트   DSN408 - 72ea<br>
-샘스볼트     M8 - 72ea<br>
-
-엔드캡<br>
-4040 x 4ea<br>
-8080 x 4ea<br>
 
 -----------------------------------------
 
