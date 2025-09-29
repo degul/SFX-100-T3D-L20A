@@ -34,7 +34,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 E-set -> done
 
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_1.png" alt="" width="600">
-<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_2.png" alt="" width="600">
+<!-- <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_2.png" alt="" width="600"> -->
 
 
 ## Assembly parts
