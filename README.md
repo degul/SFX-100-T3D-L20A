@@ -68,6 +68,7 @@ E-set -> done
 | Spring Washer | EA |
 | --- | --- |
 | M8 | 32 |
+| M6 | 16 |
 | M5 | 24 |
 | M4 | 16 | 
 
