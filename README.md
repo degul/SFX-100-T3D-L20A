@@ -37,23 +37,39 @@ E-set -> done
 <!-- <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_2.png" alt="" width="600"> -->
 
 
+## SFX-100 
+
+<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/sfx-100.png" alt="">
+
+
 ## Assembly parts
-bolt <br>
-M8 x 40mm x 32ea <br>
-M6 x 110mm x 16ea <br>
-M6 x 45mm x 16ea <br>
-M5 x 30mm x 24ea <br>
-M4 x 25mm x 16ea <br>
- <br>
-washer <br>
-M8 x 32ea <br>
-M5 x 24ea <br>
-M4 x 16ea <br>
- <br>
-nut <br>
-M12 x 1 pitch x 4ea (SFU 1605) <br>
-M6 x 16ea <br>
- <br>
+
+| Part | Type | EA |
+| --- | --- | --- |
+| Servo Motor | HLTNC T3D-L20A-RABN | 4 |
+| Coupling | 40X50-10X19 | 4 | 
+
+
+| Bolt | Length | EA |
+| --- | --- | --- |
+| M8 | 40mm | 32 |
+| M6 | 110mm | 16 |
+| M6 | 45mm | 16 |
+| M5 | 30mm | 24 |
+| M4 | 25mm | 16 |
+
+
+| Washer | EA |
+| --- | --- |
+| M8 | 32 |
+| M5 | 24 |
+| M4 | 16 | 
+
+
+| Nut | EA |
+| --- | --- |  
+| M6 | 16 |
+
 
 
 
@@ -76,7 +92,8 @@ SFX-100 부품을 100시간 이내로 출력하는 방법
 | 20층마다 솔리드 인필    | 활성화                    | 구조 안정성 강화          |
 | Perimeter 시작점   | Random                 | Z-Seam 숨김          |
 | 브림              | **5mm**, 1층            | 뒤틀림 방지             |
-| 가변 레이어 높이       | 상단 3mm → **0.2mm**     | 표면 품질 개선(선택 사항)    |
+| 
+가변 레이어 높이       | 상단 3mm → **0.2mm**     | 표면 품질 개선(선택 사항)    |
 
 
 참고 - https://www.xsimulator.net/community/threads/diablo2112s-4-axis-sfx-100-build.13571/page-3#post-185076
@@ -118,9 +135,12 @@ DSB 4035 x 12ea (스틸브라켓)<br>
 
 -----------------------------------------
 
+<!-- 
 ## monitor
 
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/monitor_cockpit.png" alt="">
+
+-->
 
 ## 참고 링크
 
