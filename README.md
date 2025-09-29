@@ -37,7 +37,7 @@ E-set -> done
 
 ## SFX-100 
 
-<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/sfx-100.png" alt="">
+<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/sfx-100.png" alt="" height="700">
 
 
 ## Assembly parts
