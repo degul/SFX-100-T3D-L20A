@@ -65,7 +65,7 @@ E-set -> done
 | M4 | 25mm | 16 |
 
 
-| Washer | EA |
+| Spring Washer | EA |
 | --- | --- |
 | M8 | 32 |
 | M5 | 24 |
