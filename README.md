@@ -98,14 +98,14 @@ Gerber Files - https://github.com/Pyronious/SFX-100-Breakout-Board/tree/master/G
 bump stop / slider 0.4mm 노즐 출력 (정밀성)
 
 0.4mm 노즐 출력 세팅
-| 설정 항목           | 권장 값                   | 비고                 |
-| --------------- | ---------------------- | ------------------ |
-| 노즐 직경           | **0.4mm**              |   |
-| 레이어 높이          | **0.2mm**              |   | 
-| Perimeter(외벽 수) | **5개**                 | 충분한 강도 확보          |
-| 상/하단 레이어        | 8개  | 표면 품질 유지           |
-| 인필 밀도           | **25%**, Grid 패턴       | 강도 ↑               |
-| 브림              | **5mm**    |         |
+| 설정 항목           | 권장 값                   |  
+| --------------- | ---------------------- | 
+| 노즐 직경           | **0.4mm**              |   
+| 레이어 높이          | **0.2mm**              |   
+| Perimeter(외벽 수) | **5개**                 |  
+| 상/하단 레이어        | 8개  |  
+| 인필 밀도           | **25%**, Grid 패턴       |  
+| 브림              | **5mm**    |         
 
 
 참고 - https://www.xsimulator.net/community/threads/diablo2112s-4-axis-sfx-100-build.13571/page-3#post-185076
