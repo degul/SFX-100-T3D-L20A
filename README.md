@@ -116,7 +116,19 @@ E-set -> done
 https://github.com/Pyronious/SFX-100-Breakout-Board/tree/master/Group%20Buy%20Edition/Enclosure
 
 
-## 3D Printing
+## 3D Parts
+| Part | EA |   |
+| --- | --- | --- | 
+| MOUNT_MOTOR | 4 | <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/MOUNT_MOTOR.png" height="50"> | 
+| SLIDER | 4 | <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/SLIDER.png" height="50"> |
+| PLATE_ORING | 4 | <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/PLATE_ORING.png" height="50"> |
+| PLATE_TOP | 4 | <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/PLATE_TOP.png" height="50"> |
+| PLATE_BOTTOM | 4 | <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/PLATE_BOTTOM.png" height="50"> |
+| FOOT | 4 | <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/FOOT.png" height="50"> |
+| m6_spacer | 16 | <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/m6_spacer.png" height="50"> |
+
+
+## 3D Printing setup
 
 bump stop / slider 0.4mm 노즐 출력 (정밀성)
 
