@@ -73,23 +73,25 @@ E-set -> done
 | Profile 100x100 | | 1 (1pack included 4pcs) | https://www.aliexpress.com/item/1005002770599016.html |
 | Grub Screws M8 | | 1 (1pack included 32pcs) | https://www.aliexpress.com/item/1005002797059381.html | 
 | EMI Filter | CW4L2-20A | 1 | https://www.aliexpress.com/item/1005004599192534.html | 
-| Fast Wire Connector  | D1-4O 5PCS | 1 | https://ko.aliexpress.com/item/1005007008409625.html | 
+| Fast Wire Connector  | D1-4O 5PCS | 1 | https://www.aliexpress.com/item/1005007008409625.html | 
+| Corner Aluminum Connector  | 4040F | 16 | https://www.aliexpress.com/item/1005007188219353.html | 
+| T Block Square Nut M8 | 4545-M8 | 16 | https://www.aliexpress.com/item/1005008879758577.html | 
 | Arduino Leonardo | | 1 | |
 
 
 
 | Bolt | Length | EA |
 | --- | --- | --- |
-| M8 | 50mm | 32 |
-| M6 | 110mm | 16 |
-| M6 | 45mm | 16 |
-| M5 | 30mm | 24 |
-| M4 | 25mm | 16 |
+| DIN934 M8 | 50mm | 32 |
+| DIN934 M6 | 110mm | 16 |
+| DIN934 M6 | 45mm | 16 |
+| DIN934 M5 | 30mm | 24 |
+| DIN934 M4 | 25mm | 16 |
 
 
 | Nut | EA |
 | --- | --- |  
-| M6 | 16 |
+| DIN934 M6 | 16 |
 
 
 | Spring Washer | EA |
