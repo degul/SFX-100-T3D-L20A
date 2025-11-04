@@ -63,36 +63,34 @@ E-set -> done
 | Part | Type | EA | Link | 
 | --- | --- | --- | --- |
 | Servo Motor | HLTNC T3D-L20A-RABN 750W 2.4N | 4 | https://www.aliexpress.com/item/1005004869497167.html |
-| Coupling | 40X50-10X19 | 4 | |
-| FK12 |  | 4 | |
-| Rubber Ring | OD30mm CS4mm | 4 | |
-| SFU 1605 | 250mm | 4 | |
+| Coupling | 40X50-10X19 | 4 | https://www.aliexpress.com/item/33014472676.html |
+| FK12 |  | 4 | https://www.aliexpress.com/item/33043585410.html |
+| Rubber Ring | OD30mm CS4mm | 1(50pcs) | https://www.aliexpress.com/item/1005008292700053.html |
+| SFU 1605 | 250mm | 4 | https://www.aliexpress.com/item/1005005977160804.html |
 | Hollow Shaft | OD30mm, ID20mm, 300mm | 4 | https://www.aliexpress.com/item/1005003847058846.html |
 | LMEK30UU |  | 4 | https://www.aliexpress.com/item/1005003773456962.html |
-| Profile 100x100 | | 1 | https://www.aliexpress.com/item/1005002770599016.html |
-| Grub Screws M8 | | 1 | https://www.aliexpress.com/item/1005002797059381.html | 
+| Profile 100x100 | | 1 (1pack included 4pcs) | https://www.aliexpress.com/item/1005002770599016.html |
+| Grub Screws M8 | | 1 (1pack included 32pcs) | https://www.aliexpress.com/item/1005002797059381.html | 
 | EMI Filter | CW4L2-20A | 1 | https://www.aliexpress.com/item/1005004599192534.html | 
+| Fast Wire Connector  | D1-4O 5PCS | 1 | https://www.aliexpress.com/item/1005007008409625.html | 
+| Corner Aluminum Connector  | 4040F | 16 | https://www.aliexpress.com/item/1005007188219353.html | 
+| T Block Square Nut M8 | 4545-M8 | 16 | https://www.aliexpress.com/item/1005008879758577.html | 
 | Arduino Leonardo | | 1 | |
 
-## SFX-100-Breakout-Board
-<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/pcb.png" alt="" width="350">
-Gerber Files - https://github.com/Pyronious/SFX-100-Breakout-Board/tree/master/Group%20Buy%20Edition/Gerber%20Files
-
-| Part | Type | EA | Link | 
-| --- | --- | --- | --- |
-| PCB | | | https://jlcpcb.com/ |
-| DB25 | Female | 4 | https://www.aliexpress.com/item/1005006034780514.html |
-| DB25 Terminal | Male Nut | 4 | https://www.aliexpress.com/item/32878748465.html |
-| KF301 | 2P | 1 | https://www.aliexpress.com/item/1005005695451188.html |
 
 
 | Bolt | Length | EA |
 | --- | --- | --- |
-| M8 | 40mm | 32 |
-| M6 | 110mm | 16 |
-| M6 | 45mm | 16 |
-| M5 | 30mm | 24 |
-| M4 | 25mm | 16 |
+| DIN934 M8 | 50mm | 32 |
+| DIN934 M6 | 110mm | 16 |
+| DIN934 M6 | 45mm | 16 |
+| DIN934 M5 | 30mm | 24 |
+| DIN934 M4 | 25mm | 16 |
+
+
+| Nut | EA |
+| --- | --- |  
+| DIN934 M6 | 16 |
 
 
 | Spring Washer | EA |
@@ -103,15 +101,35 @@ Gerber Files - https://github.com/Pyronious/SFX-100-Breakout-Board/tree/master/G
 | M4 | 16 | 
 
 
-| Nut | EA |
-| --- | --- |  
-| M6 | 16 |
+
+## SFX-100-Breakout-Board
+<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/pcb.png" alt="" width="350">
+<br>
+
+| Part | Type | EA | Link | 
+| --- | --- | --- | --- |
+| PCB | PCB Gerber Files - https://github.com/Pyronious/SFX-100-Breakout-Board/tree/master/Group%20Buy%20Edition/Gerber%20Files | | https://jlcpcb.com/ |
+| DB25 | Female | 4 | https://www.aliexpress.com/item/1005006034780514.html |
+| DB25 Terminal | Male Nut | 4 | https://www.aliexpress.com/item/32878748465.html |
+| KF301 | 2P | 1 | https://www.aliexpress.com/item/1005005695451188.html |
+
+3D Model of Case
+https://github.com/Pyronious/SFX-100-Breakout-Board/tree/master/Group%20Buy%20Edition/Enclosure
 
 
+## 3D Parts
+| Part | EA |   |
+| --- | --- | --- | 
+| MOUNT_MOTOR | 4 | <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/MOUNT_MOTOR.png" height="150"> | 
+| SLIDER | 4 | <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/SLIDER.png" height="150"> |
+| PLATE_ORING | 4 | <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/PLATE_ORING.png" height="150"> |
+| PLATE_TOP | 4 | <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/PLATE_TOP.png" height="150"> |
+| PLATE_BOTTOM | 4 | <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/PLATE_BOTTOM.png" height="150"> |
+| FOOT | 4 | <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/FOOT.png" height="150"> |
+| m6_spacer | 16 | <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/m6_spacer.png" height="150"> |
 
 
-
-## 3D Printing
+## 3D Printing setup
 
 bump stop / slider 0.4mm 노즐 출력 (정밀성)
 
