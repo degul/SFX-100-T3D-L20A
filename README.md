@@ -13,7 +13,6 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 
 
 
-
 ## SimFeedback + Servo 80AST Pins
 
 ### Arduino Pins
