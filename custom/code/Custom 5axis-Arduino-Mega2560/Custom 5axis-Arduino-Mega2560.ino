@@ -1,7 +1,8 @@
 // 
-// reference - www.lebois-racing.fr/en 
+// www.lebois-racing.fr/en
 // 아두이노 메가(Mega) 전용 - 레지스터 직접 구동 코드
 // 5축(5 actuators) 제어를 위한 최적화 버전
+// Simhub / FlyPT와 호환
 
 // 핀 할당 (직접 포트 조작을 위한 Mega 핀아웃)
 // 방향 핀 (DIR)은 PORTA 사용
@@ -20,16 +21,13 @@
 
 #define RelayPin  A0 // 릴레이를 통해 파워서플라이(PSU)를 제어합니다.
 
-// 새로운 추가: 외부 비상/정지 버튼 핀
-#define ButtonPin 2 // 외부 버튼을 디지털 핀 2에 연결
-
-#define pulseDelay 2    // 액추에이터 속도 설정. 낮을수록 빠릅니다. (2 미만 금지)
+#define pulseDelay 2      // 액추에이터 속도 설정. 낮을수록 빠릅니다. (2 미만 금지)
 #define directionDelay 4
 
-byte buffer          = 0 ;
-byte buffercount     = 0 ;
+byte buffer           = 0 ;
+byte buffercount      = 0 ;
 byte commandbuffer[10] = {0}; // 5개 모터 * 2바이트/모터 = 10바이트
-unsigned m1Target = 0,    m2Target = 0,    m3Target = 0,    m4Target = 0,    m5Target = 0;
+unsigned m1Target = 0,   m2Target = 0,   m3Target = 0,   m4Target = 0,   m5Target = 0;
 unsigned m1Position = 0, m2Position = 0, m3Position = 0, m4Position = 0, m5Position = 0;
 // PORTC의 해당 스텝 비트 위치에 맞게 펄스 값 정의
 byte pulseM1 = B10000000, pulseM2 = B01000000, pulseM3 = B00100000, pulseM4 = B00010000, pulseM5 = B00001000;
@@ -45,14 +43,9 @@ void setup() {
   pinMode(RelayPin, OUTPUT);
   disableServo();
 
-  // 새로 추가: 버튼 핀 설정
-  // 버튼을 핀과 GND 사이에 연결하고 내부 풀업을 사용합니다.
-  // 버튼을 누르면 신호가 LOW가 됩니다.
-  pinMode(ButtonPin, INPUT_PULLUP); 
-
   // 1. 방향 핀(Direction pins) 설정: PORTA (Mega 핀 D22-D26)
   DDRA = DDRA | B00011111;  // PA0-PA4 (비트 0~4)를 OUTPUT으로 설정.
-  PORTA |= B00011111;       // PA0-PA4를 HIGH로 설정합니다. (초기 방향)
+  PORTA |= B00011111;      // PA0-PA4를 HIGH로 설정합니다. (초기 방향)
 
   // 2. 스텝 핀(Step pins) 설정: PORTC (Mega 핀 D30-D34)
   DDRC = DDRC | B11111000;  // PC3-PC7 (비트 3~7)을 OUTPUT으로 설정합니다.
@@ -60,13 +53,10 @@ void setup() {
 
 void loop() {
   SerialReader();
-  checkButton(); // 새로 추가: 버튼 상태 확인
-
-  if(servoEnabled==true)
-    moveMotor();
+  moveMotor();
 }
 
-void SerialReader() {        
+void SerialReader() {       
   while (Serial.available())
   {
     if (buffercount == 0)
@@ -75,7 +65,7 @@ void SerialReader() {
       if (buffer != 'T') { 
         if(buffer =='A'){enableServo();}
         if(buffer =='C'){disableServo();}     
-                        
+                      
         buffercount = 0;
       } else {
         buffercount = 1;
@@ -96,16 +86,6 @@ void SerialReader() {
         break;
       }
     }
-  }
-}
-
-// 새로 추가된 함수: 버튼 상태 확인 및 서보 비활성화
-void checkButton() {
-  // ButtonPin을 읽고 LOW(버튼이 눌린 상태)인지 확인
-  if (digitalRead(ButtonPin) == LOW) {
-    // 버튼이 눌리면 전원(PSU)을 차단합니다.
-    disableServo();
-    buffercount = 0;
   }
 }
 
@@ -226,8 +206,6 @@ void enableServo(){
     digitalWrite(RelayPin, LOW);
     servoEnabled=true;
 }
-
 void disableServo(){
     digitalWrite(RelayPin, HIGH);
-    servoEnabled=false;
 }
