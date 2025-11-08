@@ -208,4 +208,5 @@ void enableServo(){
 }
 void disableServo(){
     digitalWrite(RelayPin, HIGH);
+    servoEnabled=false;
 }
