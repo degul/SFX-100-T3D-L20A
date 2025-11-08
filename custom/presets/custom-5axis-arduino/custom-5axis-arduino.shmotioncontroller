@@ -80,7 +80,7 @@
           {
             "RangeLimit": 100.0,
             "ParkPosition": 0.0,
-            "Role": 5,
+            "Role": 0,
             "ReverseDirection": false
           }
         ]
