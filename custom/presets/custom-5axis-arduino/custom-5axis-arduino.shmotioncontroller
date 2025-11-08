@@ -1,7 +1,7 @@
 {
   "Output": {
     "Comments": "reference https://lebois-racing.fr/competition-control-box-pour-les-verins-srt80",
-    "CustomName": "Custom 5axis-Arduino-Mega2560",
+    "CustomName": "custom-5axis-arduino",
     "Settings": {
       "RtsEnable": true,
       "DtrEnable": false,
