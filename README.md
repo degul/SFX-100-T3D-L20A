@@ -78,7 +78,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 | Fast Wire Connector  | D1-4O 5PCS | 1 | https://www.aliexpress.com/item/1005007008409625.html | 
 | Corner Aluminum Connector  | 4040F | 16 | https://www.aliexpress.com/item/1005007188219353.html | 
 | T Block Square Nut M8 | 4545-M8 | 16 | https://www.aliexpress.com/item/1005008879758577.html | 
-| Arduino Leonardo | | 1 | |
+| Arduino Leonardo | | 1 | | (아두이노 구매시 아두이노용 USB케이블 함께 구매)
 
 
 
