@@ -79,7 +79,7 @@ E-set -> done
 
 
 
-| Bolt | Length | EA |
+| 육각렌치볼트 | 길이 | 수량 |
 | --- | --- | --- |
 | DIN934 M8 | 50mm | 32 |
 | DIN934 M6 | 110mm | 16 |
@@ -88,12 +88,12 @@ E-set -> done
 | DIN934 M4 | 25mm | 16 |
 
 
-| Nut | EA |
+| 너트 | 수량 |
 | --- | --- |  
 | DIN934 M6 | 16 |
 
 
-| Spring Washer | EA |
+| 스프링 와셔 | 수량 |
 | --- | --- |
 | M8 | 32 |
 | M6 | 16 |
@@ -117,7 +117,7 @@ E-set -> done
 https://github.com/Pyronious/SFX-100-Breakout-Board/tree/master/Group%20Buy%20Edition/Enclosure
 
 
-## 3D Parts
+## 3D 프린팅 부품
 | Part | EA |   |
 | --- | --- | --- | 
 | MOUNT_MOTOR | 4 | <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/MOUNT_MOTOR.png" height="150"> | 
@@ -129,7 +129,7 @@ https://github.com/Pyronious/SFX-100-Breakout-Board/tree/master/Group%20Buy%20Ed
 | m6_spacer | 16 | <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/m6_spacer.png" height="150"> |
 
 
-## 3D Printing setup
+## 3D 프린터 설정 
 
 bump stop / slider 0.4mm 노즐 출력 (정밀성)
 
