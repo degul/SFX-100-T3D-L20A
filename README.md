@@ -47,9 +47,10 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 ` P-040 ; 30 `<br>
 ` P-098 ; 1 (Force Enable)`<br>
 
-**<font color="red">E-set -> done</font>**
-### $\color{red}{\textbf{E-set -> done}}$
+### $\color{red}{\textbf{E-set -> done}}$  값 설정후 저장 및 재시작
 
+<br>
+<br>
 
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_1.png" alt="" width="500">
 <!-- <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_2.png" alt="" width="600"> -->
