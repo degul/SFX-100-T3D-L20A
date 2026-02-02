@@ -77,6 +77,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 | EMI Filter | CW4L2-20A | 1 | https://www.aliexpress.com/item/1005004599192534.html | 
 | Fast Wire Connector  | D1-4O 5PCS | 1 | https://www.aliexpress.com/item/1005007008409625.html | 
 | Corner Aluminum Connector  | 4040F | 16 | https://www.aliexpress.com/item/1005007188219353.html | 
+| T Block Square Nut M8 | 4040-M8 | 16 | https://www.aliexpress.com/item/1005008879758577.html | 
 | T Block Square Nut M8 | 4545-M8 | 16 | https://www.aliexpress.com/item/1005008879758577.html | 
 | Arduino Leonardo | | 1 | | (아두이노 구매시 아두이노용 USB케이블(파란색) 함께 구매)
 
