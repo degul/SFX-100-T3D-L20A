@@ -47,7 +47,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 ` P-040 ; 30 `<br>
 ` P-098 ; 1 (Force Enable)`<br>
 
-### $\color{red}{\textbf{E-set -> done}}$  값 설정후 저장 및 재시작
+### $\color{red}{\textbf{E-set -> done}}$  (값 설정후 저장 및 재시작)
 
 <br>
 <br>
