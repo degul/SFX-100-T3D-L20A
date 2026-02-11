@@ -72,8 +72,8 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 | SFU 1605 | 250mm | 4 | https://www.aliexpress.com/item/1005005977160804.html |
 | Hollow Shaft | OD30mm, ID20mm, 300mm | 4 | https://www.aliexpress.com/item/1005003847058846.html |
 | LMEK30UU |  | 4 | https://www.aliexpress.com/item/1005003773456962.html |
-| Profile 100x100 | $\color{#771eb0}{\textbf{함께 구매시 조립해서 보내줌}}$ | 1 (4개 포함) | https://www.aliexpress.com/item/1005002770599016.html |
-| Grub Screws M8 | $\color{#771eb0}{\textbf{함께 구매시 조립해서 보내줌}}$ | 1 (32개 포함) | https://www.aliexpress.com/item/1005002797059381.html | 
+| Profile 100x100 | $\color{#771eb0}{\textbf{조립해서 보내줌}}$ | 1 (4개 포함) | https://www.aliexpress.com/item/1005002770599016.html |
+| Grub Screws M8 | $\color{#771eb0}{\textbf{조립해서 보내줌}}$ | 1 (32개 포함) | https://www.aliexpress.com/item/1005002797059381.html | 
 | EMI Filter | CW4L2-20A | 1 | https://www.aliexpress.com/item/1005004599192534.html | 
 | Fast Wire Connector  | D1-4O 5PCS | 1 | https://www.aliexpress.com/item/1005007008409625.html | 
 | Corner Aluminum Connector  | 4040F | 16 | https://www.aliexpress.com/item/1005007188219353.html | 
