@@ -1,7 +1,7 @@
 # SimFeedback-T3D-L20A
 SFX-100 AC Servo Motor 80AST-A1C02430
 
-
+카카오톡 오픈 톡방 - https://open.kakao.com/o/gSO9CL0h
 
 
 ## Servo Motor wiring diagram
@@ -15,7 +15,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 
 ## SimFeedback + Servo 80AST Pins
 
-### Arduino Pins
+### 아두이노 핀 정보
 
 | Pin   | Motor 1 | Motor 2 | Motor 3 | Motor 4 | DB25 PIN |
 |-------|---------|---------|---------|---------|----------|
@@ -25,7 +25,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 | 5V    | 5V      | 5V      | 5V      | 5V      | 9        |
 | GND   | GND     | GND     | GND     | GND     | 5, 10, 14 |
 
-### DB25 Controller Cable Mapping
+### DB25 터미널에 모터드라이브 배선 연결 정보
 
 | DB25 Pin | Label |
 |----------|-------|
@@ -34,10 +34,10 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 | 6        | **SON**   |
 | 9        | **24V**   |
 | 5,10,14  | **P- / D- / 0V** |
+---
 
 
-
-## Parameters
+## 모터드라이브 파라미터
 
 ` P-006 ; 25 `<br>
 ` P-007 ; 30 `<br>
@@ -48,6 +48,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 ` P-098 ; 1 (Force Enable)`<br>
 
 ### $\color{red}{\textbf{E-set -> done}}$  (값 설정후 저장 및 재시작)
+---
 
 <br>
 <br>
@@ -75,11 +76,12 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 | $\color{#1e3cb0}{\textbf{Profile 100x100}}$ | $\color{#1e3cb0}{\textbf{조립해서 보내줌}}$ | 1 (4개 포함) | https://www.aliexpress.com/item/1005002770599016.html |
 | $\color{#1e3cb0}{\textbf{Grub Screws M8}}$ | $\color{#1e3cb0}{\textbf{조립해서 보내줌}}$ | 1 (32개 포함) | https://www.aliexpress.com/item/1005002797059381.html | 
 | EMI Filter | CW4L2-20A | 1 | https://www.aliexpress.com/item/1005004599192534.html | 
-| Fast Wire Connector  | D1-4O 5PCS | 1 | https://www.aliexpress.com/item/1005007008409625.html | 
+| Fast Wire Connector | D1-4O 5PCS | 1 | https://www.aliexpress.com/item/1005007008409625.html | 
 | Corner Aluminum Connector  | 4040F | 16 | https://www.aliexpress.com/item/1005007188219353.html | 
 | T Block Square Nut M8 | 4040-M8 | 16 | https://www.aliexpress.com/item/1005008879758577.html | 
 | T Block Square Nut M8 | 4545-M8 | 16 | https://www.aliexpress.com/item/1005008879758577.html | 
-| Arduino Leonardo | | 1 | | (아두이노 구매시 아두이노용 USB케이블(파란색) 함께 구매)
+| Arduino Leonardo | | 1 | (아두이노 구매시 아두이노용 USB케이블(파란색) 함께 구매) |
+---
 
 
 
@@ -90,12 +92,12 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 | DIN912 M6 | 45mm | 16 |
 | DIN912 M5 | 30mm | 24 |
 | DIN912 M4 | 25mm | 16 |
-
+---
 
 | 너트 | 수량 |
 | --- | --- |  
 | DIN934 M6 | 16 |
-
+---
 
 | 스프링 와셔 | 수량 |
 | --- | --- |
@@ -103,7 +105,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 | M6 | 16 |
 | M5 | 24 |
 | M4 | 16 | 
-
+---
 
 
 ## SFX-100-Breakout-Board
@@ -116,6 +118,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 | DB25 | $\color{red}{\textbf{Female}}$ | 4 | https://www.aliexpress.com/item/1005006034780514.html |
 | DB25 Terminal | $\color{red}{\textbf{Male Nut}}$ | 4 | https://www.aliexpress.com/item/32878748465.html |
 | KF301 | 2P (비상버튼 사용할때 필요) | 1 | https://www.aliexpress.com/item/1005005695451188.html |
+---
 
 3D Model of Case
 https://github.com/Pyronious/SFX-100-Breakout-Board/tree/master/Group%20Buy%20Edition/Enclosure
@@ -152,7 +155,7 @@ bump stop / slider 0.4mm 노즐 출력 (정밀성)
 
 
 
-## Wiring
+## 전원배선(220v)
 
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/ac_line.png" alt="">
 
