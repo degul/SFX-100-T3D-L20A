@@ -77,11 +77,11 @@ void SerialReader() {
       commandbuffer[buffercount-1] = buffer; 
       buffercount++;
       if (buffercount >= 11) { // 1 마커 + 5 모터 * 2바이트/모터 = 총 11바이트
-          m1Target = commandbuffer[0] * 256 + commandbuffer[1];
-          m2Target = commandbuffer[2] * 256 + commandbuffer[3];
-          m3Target = commandbuffer[4] * 256 + commandbuffer[5];
-          m4Target = commandbuffer[6] * 256 + commandbuffer[7];
-          m5Target = commandbuffer[8] * 256 + commandbuffer[9];
+          m1Target = ((uint16_t)commandbuffer[0] << 8) | commandbuffer[1];
+          m2Target = ((uint16_t)commandbuffer[2] << 8) | commandbuffer[3];
+          m3Target = ((uint16_t)commandbuffer[4] << 8) | commandbuffer[5];
+          m4Target = ((uint16_t)commandbuffer[6] << 8) | commandbuffer[7];
+          m5Target = ((uint16_t)commandbuffer[8] << 8) | commandbuffer[9];
           buffercount = 0;
         break;
       }
