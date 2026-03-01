@@ -180,7 +180,7 @@ bump stop / slider 0.4mm 노즐 출력 (정밀성)
 
 ## 다운로드
 
-https://raw.githubusercontent.com/degul/SFX-100-T3D-L20A/blob/main/ext/Simfeedback_flash.zip    (firmware flash)
+https://raw.githubusercontent.com/degul/SFX-100-T3D-L20A/main/ext/Simfeedback_flash.zip    (firmware flash)
 
 ## 참고 링크
 
