@@ -3,6 +3,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 
 카카오톡 오픈 톡방 - https://open.kakao.com/o/gSO9CL0h
 
+3d view - https://a360.co/4tRbJ65
 
 ## Servo Motor wiring diagram
 
@@ -58,6 +59,8 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 
 
 ## SFX-100 
+
+3d view - https://a360.co/4tRbJ65
 
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/sfx-100.png" alt="" height="550">
 
