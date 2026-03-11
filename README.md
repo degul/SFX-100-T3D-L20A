@@ -73,7 +73,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 | Coupling | 40X50-10X19 | 4 | https://www.aliexpress.com/item/33014472676.html |
 | FK12 |  | 4 | https://www.aliexpress.com/item/33043585410.html |
 | Rubber Ring | OD30mm CS4mm | 1 (50pcs) | https://www.aliexpress.com/item/1005008292700053.html |
-| SFU 1605 | 250mm | 4 | https://www.aliexpress.com/item/1005005977160804.html |
+| SFU 1605 | 250mm, SFU1605(metal nut, 메탈너트선택 꼭)| 4 | https://www.aliexpress.com/item/32813817954.html |
 | Hollow Shaft | OD30mm, ID20mm, 300mm | 4 | https://www.aliexpress.com/item/1005003847058846.html |
 | LMEK30UU |  | 4 | https://www.aliexpress.com/item/1005003773456962.html |
 | Profile 100x100 | $\color{#1e3cb0}{\textbf{조립해서 보내줌}}$ | 1 (4개 포함) | https://www.aliexpress.com/item/1005002770599016.html |
