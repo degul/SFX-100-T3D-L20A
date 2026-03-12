@@ -86,6 +86,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 | T Block Square Nut M8 | 4040-M8 | 16 | https://www.aliexpress.com/item/1005008879758577.html | 
 | T Block Square Nut M8 | 4545-M8 | 16 | https://www.aliexpress.com/item/1005008879758577.html | 
 | Arduino Leonardo | | 1 | (아두이노 구매시 아두이노용 USB케이블(파란색) 함께 구매) |
+| 연마줄 | | <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/33333333333333.png" alt="" width="350">  |  |
 ---
 
 
