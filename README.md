@@ -57,15 +57,13 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_1.png" alt="" width="500">
 <!-- <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/parameter_2.png" alt="" width="600"> -->
 
-<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/ass_1.png" alt="" width="500">
-<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/ass_2.png" alt="" width="500">
-
-
 ## SFX-100 
 
 3d view - https://a360.co/4tRbJ65
 
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/sfx-100.png" alt="" height="550">
+<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/ass_1.png" alt="" width="500">
+<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/ass_2.png" alt="" width="500">
 
 
 
