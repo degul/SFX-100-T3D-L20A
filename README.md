@@ -8,6 +8,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 ## Servo Motor wiring diagram
 
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/servo_1.png" alt="" width="700">
+<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/servo_2.png" alt="" width="700">
 
 ` L1 / L2 = main power input terminal 220v  `<br>
 ` U / V / W / PE = motor power cable  `<br>
