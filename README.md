@@ -8,6 +8,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 ## Servo Motor wiring diagram
 
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/servo_1.png" alt="" width="700">
+<img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/servo_2.png" alt="" width="700">
 
 ` L1 / L2 = main power input terminal 220v  `<br>
 ` U / V / W / PE = motor power cable  `<br>
@@ -188,6 +189,7 @@ bump stop / slider 0.4mm 노즐 출력 (정밀성)
 ## 다운로드
 
 https://raw.githubusercontent.com/degul/SFX-100-T3D-L20A/main/ext/Simfeedback_flash.zip    (firmware flash)
+https://raw.githubusercontent.com/degul/SFX-100-T3D-L20A/main/ext/SRT80.leonardo.zip    (SRT80일때는 P29-3 = 100mm 매우중요!)
 
 ## 참고 링크
 
