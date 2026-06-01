@@ -61,6 +61,7 @@ SFX-100 AC Servo Motor 80AST-A1C02430
 ## SFX-100 
 
 3d view - https://a360.co/4tRbJ65
+<iframe src="https://gmail5489997.autodesk360.com/shares/public/SH28cd1QT2badd0ea72bddfc0419017de4a5?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/sfx-100.png" alt="" height="550">
 <img src="https://github.com/degul/SimFeedback-T3D-L20A/raw/main/images/ass_1.png" alt="" width="500">
